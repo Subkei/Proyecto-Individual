@@ -5,7 +5,7 @@ package electrodomesticos;
  * Contiene un Array con 10 posiciones, al cual se le asignan valores de cada una de las clases
  * Se recorre el Array y entrega un precio final, además de mostrar el precio para cada clase
  * @author: Sebastián Acevedo
- * @see url
+ * @see: <a href="https://github.com/Subkei/Proyecto-Individual.git">Versión en Github</a>
  * @version: 23/02/2020
  *
  */
@@ -48,7 +48,7 @@ public class Menu {
 		/**
 		 * Se recorre el array y ejecuta el método precio
 		 */
-		System.out.println("--------------Listado de Electrodomesticos-------------");
+		System.out.println("--------------Listado de Electrodomesticos-------------\n");
 		for (Electrodomestico electrodomestico : reporteElectrodomesticos) {
 			System.out.println(electrodomestico);
 		}

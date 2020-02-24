@@ -7,7 +7,7 @@ package electrodomesticos;
  * un último constructor con carga y el resto de los atributos heredados de la clase padre
  * Métodos getters y el método precio final
  * @author: Sebastián Acevedo
- * @see: url
+ * @see: <a href="https://github.com/Subkei/Proyecto-Individual.git">Versión en Github</a>
  * @version: 2020
  */
 public class Lavadora extends Electrodomestico {

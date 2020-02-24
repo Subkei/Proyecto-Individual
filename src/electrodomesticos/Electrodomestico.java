@@ -6,7 +6,7 @@ package electrodomesticos;
  * Un constructor por defecto, otro constructor para precio y peso, un último constructor con todos los atributos
  * Métodos getters, comprobar consumo energetico, comprobar color y el método precio final
  * @author: Sebastián Acevedo
- * @see: url
+ * @see: <a href="https://github.com/Subkei/Proyecto-Individual.git">Versión en Github</a>
  * @version: 2020
  */
 public class Electrodomestico {
