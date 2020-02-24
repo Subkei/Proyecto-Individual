@@ -3,7 +3,7 @@ package electrodomesticos;
 /**
  * Clase ejecutable Menu
  * Contiene un Array con 10 posiciones, al cual se le asignan valores de cada una de las clases
- * Se recorre el Array y entrega un precio final, adem�s de mostrar el precio para cada clase
+ * Se recorre el Array y entrega un precio final, además de mostrar el precio para cada clase
  * @author: Sebastián Acevedo
  * @see url
  * @version: 23/02/2020

@@ -29,7 +29,7 @@ public class Electrodomestico {
 	
 	/**
 	 * Constructor con atributos por defecto
-	 * @param precioBase Precio base en Euro 100.000 para Electrodomestico
+	 * @param precioBase Precio base de $100 para Electrodomestico
 	 * @param color Color blanco para electrodomestico
 	 * @param consumoEnergetico Consumo energetico con letra F para electrodomestico 
 	 * @param peso Peso en kg 5 para electrodomestico
@@ -43,7 +43,7 @@ public class Electrodomestico {
 
 	/**
 	 * Constructor con parametros precio y peso, color y consumo energetico por defecto
-	 * @param precioBase Precio base en Euro se define por defecto
+	 * @param precioBase Precio base se define por defecto
 	 * @param color Color se define con atributo constante
 	 * @param consumoEnergetico Consumo Energetico se define con atributo constante
 	 * @param peso Peso se define con atributo por defecto
@@ -57,7 +57,7 @@ public class Electrodomestico {
 
 	/**
 	 * Constructor con todos los atributos
-	 * @param precioBase Precio base en Euro de Electrodomestico
+	 * @param precioBase Precio base de Electrodomestico
 	 * @param color Color de electrodomestico
 	 * @param consumoEnergetico Consumo energetico entre A y F de electrodomestico 
 	 * @param peso Peso en kg de electrodomestico
